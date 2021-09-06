@@ -1,0 +1,8 @@
+#app{
+  font-family: 'MontSerrat', sans-serif;
+}
+
+.router-link-exact-active {
+  font-weight: bold;
+  /* font-size: large; */
+}
